@@ -1,0 +1,84 @@
+#contenitore{
+    background-image: url(background.jpg);
+    background-size: cover;
+    max-width: 60%;
+    margin: auto;
+    
+
+}
+.ombra {
+    margin-top: 30px;
+    padding: 80px 80px 50px 80px;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Opacità 50% */
+    width:800px;
+  
+  }
+
+#logo{
+    width: 180px;
+    
+}
+
+.titolo{
+    color: rgb(0,221,0);
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    height: 20px;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+    
+}
+
+.font{
+    font-size: larger ;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+
+}
+.uno{
+    
+    border-color: rgb(0,221,0);
+    background-color:rgb(0,221,0);   
+    margin: 3px 3px 3px 4px;
+    margin-top: 5px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.colore{
+    color: white;
+}
+
+
+
+
+.text-uno{
+    border-color:rgb(245,180,83) ;
+    background-color: rgb(245,180,83);
+    border-radius: 5px;
+    width: 250px;
+    height: 20px;
+
+}
+
+.text-due{
+    border-color:rgb(30,195,30) ;
+    background-color:rgb(30,195,30);
+    border-radius: 5px;
+    width: 450px;
+    height: 20px;
+
+}
+
+.text-tre{
+    border-color:rgb(190,65,65) ;
+    background-color: rgb(190,65,65);
+    border-radius:5px;
+    width: 100px;
+    height: 20px;
+}
